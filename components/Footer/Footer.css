@@ -1,0 +1,22 @@
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 1rem;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer a {
+    color: #ccc;
+    text-decoration: none;
+    margin-left: 0.5rem;
+  }
+  
+  .footer a:hover {
+    color: white;
+  }

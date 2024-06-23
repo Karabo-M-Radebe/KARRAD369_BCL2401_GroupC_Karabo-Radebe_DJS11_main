@@ -1,0 +1,45 @@
+.show-detail-container {
+    padding: 1rem;
+    background-color: #f4f4f4;
+  }
+  
+  .show-detail-description {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .season-dropdown {
+    margin-bottom: 1rem;
+  }
+  
+  .episode-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  
+  .show-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+  }
+  
+  .show-information {
+    text-align: center;
+  }
+  
+  .show-information img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+  }
+  
+  .like-icon {
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  
